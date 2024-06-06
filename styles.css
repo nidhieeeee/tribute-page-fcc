@@ -1,0 +1,83 @@
+#img-div3{
+    max-width: 100%;
+   height:auto;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   
+   
+   
+    
+}
+#image{
+    height: auto;
+    border: 2px solid #ffff00;
+    border-radius: 50%;
+    background-image:url(https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-icon.png);
+    max-width:100%;
+    background-size:cover;
+    
+    display:block;
+}
+
+
+#title{
+    font-weight:bold;
+    color: rgb(161, 161, 247);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+h3{
+    text-align: center;
+    color:white;
+    justify-content: center;
+    
+    display: flex;
+
+}
+#logo{
+   
+    height:30px;
+    
+}
+.indian{
+    height: 50px;
+    
+    align-items: center;
+    justify-content: center;
+   
+}
+*{
+    background-color: black;
+}
+#img-caption{
+color: rgb(178, 193, 84);
+text-align: center;
+}  
+.paragraph{
+    color: rgb(255, 255, 255);
+    
+    max-width: 500px;
+   
+}
+p{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+
+}
+main{
+   border: 2px solid gold;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   max-width: 500px;
+   margin: auto;
+}
+#tribute-link1{
+    color: white;
+}
