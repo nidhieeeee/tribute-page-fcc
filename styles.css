@@ -3,12 +3,15 @@
    height:auto;
    text-align: center;
    align-items: center;
-   justify-content: center;
-   
-   
-   
-    
+   justify-content: center;    
 }
+#img-div{
+
+    text-align: center;
+   align-items: center;
+   justify-content: center; 
+}
+    
 #image{
     height: auto;
     border: 2px solid #ffff00;
