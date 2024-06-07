@@ -21,7 +21,9 @@ display:flex;
     background-image:url(https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-icon.png);
     max-width:100%;
     background-size:cover;
-    
+      text-align: center;
+   align-items: center;
+   justify-content: center; 
     display:block;
 }
 
